@@ -54,8 +54,8 @@ This assistant operates on a fictional dataset describing **Parma Tecno Intellig
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/parmaTIS-assistant.git
-cd parmaTIS-assistant
+git clone https://github.com/bahathabet/rag-openai-agent.git
+cd rag-openai-agent
 ```
 
 ### 2. Install dependencies
