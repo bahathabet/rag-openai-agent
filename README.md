@@ -103,6 +103,10 @@ DEEPSEEK_API_KEY=...
 * Easily adaptable to real enterprise use cases.
 
 ---
+## 🧠 How to Install and Run Ollama Locally
+from here:
+https://github.com/bahathabet/agentic-search/blob/master/README.md
+---
 
 ## 📜 License
 
